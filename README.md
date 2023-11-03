@@ -5,4 +5,5 @@
 * git push 
 * comando git pull, segundo teste
 * comando git fetch
-* git merge
+
+
