@@ -2,5 +2,5 @@
 
 ## Salvando coisas para
 
-git push 
+* git push 
 * comando git pull
