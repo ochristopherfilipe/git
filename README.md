@@ -2,4 +2,4 @@
 
 ## Salvando coisas para
 
-modificando aqui na aula 6
+git push 
