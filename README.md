@@ -5,3 +5,4 @@
 * git push 
 * comando git pull, segundo teste
 * comando git fetch
+* commit na branch teste
